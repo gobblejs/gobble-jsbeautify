@@ -1,0 +1,15 @@
+{
+  "name": "gobble-jsbeautify",
+  "version": "0.1.0",
+  "description": "Beautify JavaScript files with gobble and jsbeautifier",
+  "author": "Rich Harris",
+  "keywords": [
+    "gobble"
+  ],
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "js-beautify": "~1.5.1"
+  }
+}
