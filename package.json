@@ -3,6 +3,8 @@
   "version": "0.1.0",
   "description": "Beautify JavaScript files with gobble and jsbeautifier",
   "author": "Rich Harris",
+  "license": "MIT",
+  "repository": "gobble-jsbeautify",
   "keywords": [
     "gobble"
   ],
